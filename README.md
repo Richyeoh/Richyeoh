@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌱
 
 <!--
 **Richyeoh/Richyeoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,17 @@ Here are some ideas to get you started:
 -->
 
 [![Richyeoh's github stats](https://github-readme-stats.vercel.app/api?username=Richyeoh)](https://github.com/anuraghazra/github-readme-stats)
+
+## More about me
+```kotlin
+val richyeoh = developer {
+    about {
+        name = "Rich yeoh"
+        company = "404 Not Found"
+    }
+    links {
+        qq = "2862986098"
+        wechat = "iPronhub"
+    }
+}
+```
