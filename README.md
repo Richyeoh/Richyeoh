@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Richyeoh's github stats](https://github-readme-stats.vercel.app/api?username=Richyeoh)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Richyeoh's github stats](https://github-readme-stats.vercel.app/api?username=Richyeoh)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## More about me
 ```kotlin
