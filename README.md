@@ -24,9 +24,9 @@ val richyeoh = developer {
         name = "Rich yeoh"
         company = "404 Not Found"
     }
+    
     links {
-        qq = "2862986098"
-        wechat = "iPronhub"
+        blogs = "blogs.richyeoh.com"
     }
 }
 ```
