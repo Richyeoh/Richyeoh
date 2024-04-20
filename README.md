@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 val richyeoh = developer {
     about {
         name = "Rich yeoh"
-        company = "404 Not Found"
+        company = "Copite"
     }
     
     links {
